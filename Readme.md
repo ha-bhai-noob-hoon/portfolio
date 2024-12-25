@@ -1,4 +1,4 @@
-# Arihant's Portfolio
+# Abhijit's Portfolio
 
 Welcome to my portfolio! I'm Arihant, a Full Stack Developer with one year of experience. I specialize in designing and implementing robust web applications, proficient in a range of front-end and back-end technologies, including HTML, CSS, JavaScript, React, Node.js, Express, and MongoDB. I'm dedicated to delivering high-quality, scalable solutions that align seamlessly with client objectives. Actively engaged in continuous professional development to stay at the forefront of evolving industry standards.
 
@@ -20,9 +20,9 @@ I am a passionate Full Stack Developer with one year of hands-on experience. My 
 
 
 ## Contact
-- **Email:** jainari1208@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/arihantdotcom/
-- **Twitter:** https://twitter.com/Arihantdotcom
+- **Email:** abhijitpandey524@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/abhijit524pandey/
+
 
 Feel free to reach out if you have any questions or if you're interested in collaborating!
 
