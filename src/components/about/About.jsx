@@ -53,8 +53,8 @@ const About = () => {
             flow and application performance.
           </p>
           <a
-            href="/arihantjainresume.pdf"
-            download="arihantjainresume.pdf"
+            href="/abhijit_resume.pdf"
+            download="abhijit_resume.pdf"
             className="btn"
             target="_blank"
             rel="noopener noreferrer"
