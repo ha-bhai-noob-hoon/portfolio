@@ -42,7 +42,7 @@ const About = () => {
           <p className="about__description">
             Greetings!
             <br />
-            I'm Abhijit & I'm a Web Developer learning about LLMs and Langchains.
+            I'm Abhijit & I'm a Web Developer learning about LLMs and Langchain.
             With expertise in technologies like React Js, Next.js, Tailwind CSS, TypeScript, and
             Docker, I strive to build responsive, user-friendly interfaces that
             deliver exceptional experiences. 

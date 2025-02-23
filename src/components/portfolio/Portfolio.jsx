@@ -22,7 +22,7 @@ const Portfolio = () => {
           Fullstack app
         </span>
         <span className="work__item" onClick={() => filterItem("Clone")}>
-          Clones
+          LLM/RAG
         </span>
       </div>
       <div className="work__container grid">
