@@ -8,49 +8,49 @@ const Menu = [
   {
     id: 1,
     image: Work5,
-    title: "Spectrum UI ",
-    category: "Fullstack",
-    link:"https://spectrumui.arihant.us"
+    title: "Mr Almost Dr ",
+    category: "LLM/RAG",
+    link:"https://mr-almost-dr-l6bq.vercel.app/"
     
   },
     {
       id: 6,
       image: Work1,
-      title: "Report 100xDevs ",
+      title: "HushHub",
       category: "Fullstack",
-      link:"https://report-100xdevs.vercel.app/"
+      link:"https://fishy-mu.vercel.app/"
       
     },
     {id: 1,
     image: Work4,
-    title: "Motion - Notes App ",
-    category: "Clone",
-    link:"https://motion.arihant.us/"
+    title: "Motion - Notes App(Under Progress) ",
+    category: "Fullstack",
+    link:""
     
   },
   {
     id: 3,
     image: Work2,
-    title: "Buy Me A Tea",
+    title: "Buy Me A Tea(Under Progress)",
     category: "Fullstack",
-    link:"https://buymeatea.arihant.us/"
+    link:""
     
   },
   {
     id: 5,
     image: Work6,
-    title: "Venture Catalyst" ,
+    title: "Venture Catalyst(deprecated)" ,
     category: "Fullstack",
-    link:"https://venture-catalyst.vercel.app/"
+    link:""
     
   },
 
     {
       id: 4,
       image: Work3,
-      title: "Jain Cloths ",
+      title: "Porfolio Website",
       category: "Fullstack",
-      link:"https://jaincloth.arihant.us/"
+      link:""
       
     },
     
