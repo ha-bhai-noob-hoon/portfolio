@@ -21,7 +21,7 @@ const Portfolio = () => {
         <span className="work__item" onClick={() => filterItem("Fullstack")}>
           Fullstack app
         </span>
-        <span className="work__item" onClick={() => filterItem("Clone")}>
+        <span className="work__item" onClick={() => filterItem("LLM/RAG")}>
           LLM/RAG
         </span>
       </div>
