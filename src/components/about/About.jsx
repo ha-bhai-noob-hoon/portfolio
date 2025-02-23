@@ -42,11 +42,11 @@ const About = () => {
           <p className="about__description">
             Greetings!
             <br />
-            I'm Abhijit & I'm a Fullstack developer with a passion for creating
-            modern and efficient digital solutions. With expertise in
-            technologies like React Js, Next.js, Tailwind CSS, TypeScript, and
+            I'm Abhijit & I'm a Web Developer learning about LLMs and Langchains.
+            With expertise in technologies like React Js, Next.js, Tailwind CSS, TypeScript, and
             Docker, I strive to build responsive, user-friendly interfaces that
-            deliver exceptional experiences. In my development journey, I
+            deliver exceptional experiences. 
+            In my development journey, I
             leverage AWS services for scalable and reliable infrastructure,
             MongoDB & Postgresql for flexible and powerful database management,
             and Zustand for effective state management, ensuring smooth data
